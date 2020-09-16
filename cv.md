@@ -10,4 +10,7 @@
    + CSS
    + JavaScript
    + Git and GItHub
-5. 
+5. Here is my code [example](https://github.com/Ibrohim2101/hello-world)
+6. I don't have any experiance
+7. Tashkent State Technical University
+8. I have CEFR certificate B1
